@@ -1,5 +1,5 @@
 # Weyoun
- Billing Report for 2600Hz
+ Billing Report for KAZOO
 
  This script runs the billingReport funciton from the Weyoun script separately. It requires the helperfunctions.py script in order to run. 
 
